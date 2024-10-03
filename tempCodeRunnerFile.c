@@ -1,0 +1,1 @@
+temp[i][j]=arr[i][j];
